@@ -1,0 +1,57 @@
+
+  /* Heading Image & Resizing */
+
+  .Header {
+    position: relative;
+  }
+
+  .contain {
+    position: absolute;
+    top:  0%;
+    left: 0%;
+    background-image: url("./images/pattern.jpeg");
+    color: khaki;
+    font-family: Helvetica:
+  }
+
+  .image {
+    width: auto;
+    height: auto;
+    width: 1500px;
+    height: 200px;
+  }
+
+/* font styling */
+
+h1 {
+  font-size: 100px;
+}
+
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.text_finish{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+/* background boarders */
+
+.brushes {
+
+  background-color: Mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
